@@ -1,3 +1,3 @@
 # PIAT
 
-Repository for Putting it all together mini project as part of Code Institute course.
+Repository for "Putting It All Together" mini project as part of Code Institute course.
