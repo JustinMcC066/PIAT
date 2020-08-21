@@ -10,3 +10,4 @@ Repository for "Putting It All Together" mini project as part of Code Institute 
 - Python
 - Flask
 - Heroku
+- MongoDB
